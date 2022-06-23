@@ -1,13 +1,13 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![image](kodluyoruzilkrepo/image/description.JPG)
+![image](https://github.com/huseyincatalbas/patika.dev-Repo/blob/bd98ec73c9a5f3d738a564159c1d191d1e3ba50c/kodluyoruzilkrepo/image/description.JPG)
 
 # Installation
-Öncelikle projeyi clonelayın. (https://github.com/huseyincatalbas/patika.dev-Repo/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. (https://github.com/huseyincatalbas/patika.dev-Repo.git)
 
 ``` 
-git clone https://github.com/huseyincatalbas/patika.dev-Repo/kodluyoruzilkrepo.git 
+git clone https://github.com/huseyincatalbas/patika.dev-Repo.git 
 ```
 
 # Usage
