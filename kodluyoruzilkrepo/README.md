@@ -7,6 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın. (https://github.com/huseyincatalbas/patika.dev-Repo.git)
 
 ``` 
+<<<<<<< HEAD
 git clone https://github.com/huseyincatalbas/patika.dev-Repo.git
 ```
 
