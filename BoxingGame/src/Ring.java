@@ -16,9 +16,12 @@ public class Ring {
         if (checkWeight()) {
             while (f1.health > 0 && f2.health > 0) {
                 System.out.println("======== YENİ ROUND ===========");
-                int randomValue = (int)(Math.random() * 2);
-                if(randomValue<1)f2.health = f1.hit(f2);
-                else{f1.health = f2.hit(f1);}
+                int randomValue = (int) (Math.random() * 2);
+                if (randomValue < 1)
+                    f2.health = f1.hit(f2);
+                else {
+                    f1.health = f2.hit(f1);
+                }
                 if (isWin()) {
                     break;
                 }

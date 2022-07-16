@@ -15,7 +15,7 @@ public class Fighter {
 
     public int hit(Fighter foe) {
         System.out.println("------------");
-        System.out.println(this.name + " => " + foe.name + " " +  this.damage + " hasar vurdu.");
+        System.out.println(this.name + " => " + foe.name + " " + this.damage + " hasar vurdu.");
 
         if (foe.dodge()) {
             System.out.println(foe.name + " gelen hasarı savurdu.");
@@ -29,7 +29,7 @@ public class Fighter {
     }
 
     public boolean dodge() {
-        double randomValue = Math.random() * 100;  //0.0 to 99.9
+        double randomValue = Math.random() * 100; // 0.0 to 99.9
         return randomValue <= this.dodge;
     }
 }
